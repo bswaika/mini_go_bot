@@ -56,4 +56,7 @@
   - [x] Cutoff Thresholds
   - [x] Evaluation Function
   - [x] Alpha-Beta Pruning
-  - [x] Move Ordering 
+  - [x] Move Ordering
+
+----
+Baladitya Swaika, *October 2021*
